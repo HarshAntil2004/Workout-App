@@ -3,10 +3,7 @@ The 7-Minute Workout Android App is a simple fitness application that guides you
 Have implemented Room database for persisting Wordkout history records.
 
 ## Getting Started
-To get started with the 7-Minute Workout Android App, clone this repository to your local machine:
-git clone https://github.com/darshansatra1/7-Minutes-Workout.git
-
-Alternatively, you can download the zip file and extract it.
+You can download the zip file and extract it.
 
 Once you have the project on your machine, you can open it using Android Studio.
 
@@ -27,5 +24,4 @@ Once you have the project on your machine, you can open it using Android Studio.
 <img src="https://user-images.githubusercontent.com/53905865/226234702-a4839535-1df2-47b5-bc91-066adb19f7c4.png" width="250" height="500"/> |
 <img src="https://user-images.githubusercontent.com/53905865/226234703-e3c7f3fb-ea6f-41d2-a5b3-a9a2a08eb984.png" width="250" height="500"/> |
    
- ## Contributing
-If you'd like to contribute to the 7-Minute Workout Android App, you can do so by submitting a pull request. Before you do, please make sure to read the contribution guidelines to ensure your changes are in line with the project's goals.
+##Thank you!
