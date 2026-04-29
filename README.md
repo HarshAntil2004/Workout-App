@@ -24,4 +24,4 @@ Once you have the project on your machine, you can open it using Android Studio.
 <img src="https://user-images.githubusercontent.com/53905865/226234702-a4839535-1df2-47b5-bc91-066adb19f7c4.png" width="250" height="500"/> |
 <img src="https://user-images.githubusercontent.com/53905865/226234703-e3c7f3fb-ea6f-41d2-a5b3-a9a2a08eb984.png" width="250" height="500"/> |
    
-##Thank you!
+## Thank you!
